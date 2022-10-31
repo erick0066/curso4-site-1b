@@ -1,2 +1,12 @@
-header
-     
+header {
+    background: rgb(224, 41, 9);
+}
+
+#logo {
+    width: 250px;
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+} erick
