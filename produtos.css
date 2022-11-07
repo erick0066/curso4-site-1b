@@ -1,1 +1,38 @@
-https://pin.it/74k6sUl
+pheader {
+    background: rgb(39, 218, 209);
+    padding: 20px 0;
+}
+
+.caixa-nav{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+h1 {
+    display: inline;
+}
+
+#logo {
+    width: 25x;
+}
+
+nav {
+    display: inline-block;
+    position: absolute;
+    right: 30px;
+    top: 110px;
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: rgb(0, 38, 255);
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
