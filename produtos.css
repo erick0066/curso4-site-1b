@@ -1,4 +1,4 @@
-pheader {
+header {
     background: rgb(39, 218, 209);
     padding: 20px 0;
 }
@@ -14,7 +14,7 @@ h1 {
 }
 
 #logo {
-    width: 25x;
+    width: 250px;
 }
 
 nav {
